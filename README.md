@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aravind-Krishnadeva
 - 👀 I’m interested in design, develop, integrate and deploy low power batteryless / battery based IOT sensing products for sustainable applications
-- 🌱 I’m currently learning/working on building low power solar based BLE Tensiometer for Watermark soil sensors and solar harvested C02 sensor ( volunteer project)
+- 🌱 I’m working with solar cells, energy harvesters, and energy storage devices for building, testing proof of concepts on batteryless systems.
 - 💞️ I’m looking to collaborate on with people, who can support / contribute on designing and deploying cost effective green energy products 
 - 📫 How to reach me : Reach me on aravind.elect@gmail.com
 
